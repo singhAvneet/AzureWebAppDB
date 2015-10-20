@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AzurreWebAppDB1.SiteMaster" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AzurreWebAppDB2.SiteMaster" %>
 
 <!DOCTYPE html>
 
@@ -24,7 +24,6 @@
         window.appInsights=appInsights;
         appInsights.trackPageView();
     </script>
-    <meta name="description" content="The description of my page" />
 </head>
 <body>
     <form runat="server">
